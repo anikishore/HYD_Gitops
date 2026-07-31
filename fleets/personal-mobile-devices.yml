@@ -73,9 +73,15 @@ controls:
 ###########################################################
 software:
   fleet_maintained_apps:
-    - slug: aws-vpn-client/darwin
+    # macOS apps
+    # …
+    - slug: aws-vpn-client/darwin # Slack for macOS
       self_service: true
-  app_store_apps:
+    #   setup_experience: true
+    #   categories:
+    #     - Communication
+    #     - Productivity
+  # app_store_apps:
     ###########################################################
     # iOS apps
     ###########################################################

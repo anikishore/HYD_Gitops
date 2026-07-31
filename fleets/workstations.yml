@@ -184,7 +184,7 @@ software:
 
   packages: # Custom packages (if any)
     # macOS custom packages
-    # …
+    # - path: 
 
     # Windows custom packages
     # …
