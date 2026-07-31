@@ -167,7 +167,7 @@ software:
     - slug: slack/darwin # Slack for macOS
       self_service: true
       setup_experience: true
-      version: 4.51.180
+      #version: 4.51.180
       categories:
         - Communication
         - Productivity
