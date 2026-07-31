@@ -1,0 +1,6 @@
+- name: Department - Engineering
+  description: Hosts belonginging to memebers of the Engineering department
+  lablel_membership_type: host_vitals
+  criteria:
+    vital: end_user_idp_department
+    value: Engineering
