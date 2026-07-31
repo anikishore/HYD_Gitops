@@ -164,12 +164,13 @@ software:
   fleet_maintained_apps:
     # macOS apps
     # …
-    # - slug: slack/darwin # Slack for macOS
-    #   self_service: true
-    #   setup_experience: true
-    #   categories:
-    #     - Communication
-    #     - Productivity
+    - slug: slack/darwin # Slack for macOS
+      self_service: true
+      setup_experience: true
+      version: 4.51.180
+      categories:
+        - Communication
+        - Productivity
 
     # Windows apps
     # …
